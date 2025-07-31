@@ -11,8 +11,8 @@ targets:
       # NOTE: This file is auto-generated.
     sources:
       - "https://raw.githubusercontent.com/CornMaina/ios_rule_script/refs/heads/master/rule/Clash/OpenAI/OpenAI.list"
-      - "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Claude/Claude.list"
-      - "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Gemini/Gemini.list"
-      - "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Gemini/Gemini.list"
+      - "https://raw.githubusercontent.com/CornMaina/ios_rule_script/refs/heads/master/rule/Clash/Claude/Claude.list"
+      - "https://raw.githubusercontent.com/CornMaina/ios_rule_script/refs/heads/master/rule/Clash/Gemini/Gemini.list"
+      - "https://raw.githubusercontent.com/CornMaina/ios_rule_script/refs/heads/master/rule/Clash/Gemini/Gemini.list"
       
   # 在这里继续添加更多任务...
