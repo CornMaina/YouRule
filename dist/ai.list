@@ -2,13 +2,14 @@
 # AUTHOR: CornMania
 # REPO: https://github.com/CornMania/YouRule
 # NOTE: This file is auto-generated.
-# UPDATED: 2025-07-31 03:48:38 UTC
+# UPDATED: 2025-07-31 07:28:44 UTC
 
 DOMAIN,ai.google.dev
 DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,cdn.usefathom.com
 DOMAIN,chat.openai.com.cdn.cloudflare.net
+DOMAIN,generativelanguage.googleapis.com
 DOMAIN,makersuite.google.com
 DOMAIN,openai-api.arkoselabs.com
 DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
