@@ -87,7 +87,7 @@ targets:
       - https://raw.githubusercontent.com/CornMaina/ios_rule_script/master/rule/Clash/YouTube/YouTube.list
       - https://raw.githubusercontent.com/CornMaina/ios_rule_script/master/rule/Clash/YouTubeMusic/YouTubeMusic.list
   
-  - output_file: "dist/Telegram.list"
+  - output_file: "dist/telegram.list"
     header: |
       # NAME: Telegram Rules
       # AUTHOR: CornMania
@@ -314,7 +314,6 @@ targets:
       - https://raw.githubusercontent.com/CornMaina/ios_rule_script/master/rule/Clash/LianMeng/LianMeng.list
       - https://raw.githubusercontent.com/CornMaina/ios_rule_script/master/rule/Clash/LuDaShi/LuDaShi.list
       - https://raw.githubusercontent.com/CornMaina/ios_rule_script/master/rule/Clash/LvMiLianChuang/LvMiLianChuang.list
-      - https://raw.githubusercontent.com/CornMaina/ios_rule_script/master/rule/Clash/MOOMusic/MOOMusic.list
       - https://raw.githubusercontent.com/CornMaina/ios_rule_script/master/rule/Clash/Maocloud/Maocloud.list
       - https://raw.githubusercontent.com/CornMaina/ios_rule_script/master/rule/Clash/Marketing/Marketing.list
       - https://raw.githubusercontent.com/CornMaina/ios_rule_script/master/rule/Clash/MeiTu/MeiTu.list
@@ -501,7 +500,6 @@ targets:
       - https://raw.githubusercontent.com/CornMaina/ios_rule_script/master/rule/Clash/CableTV/CableTV.list
       - https://raw.githubusercontent.com/CornMaina/ios_rule_script/master/rule/Clash/Cake/Cake.list
       - https://raw.githubusercontent.com/CornMaina/ios_rule_script/master/rule/Clash/Canon/Canon.list
-      - https://raw.githubusercontent.com/CornMaina/ios_rule_script/master/rule/Clash/ChemeQuations/ChemeQuations.list
       - https://raw.githubusercontent.com/CornMaina/ios_rule_script/master/rule/Clash/ChinaDNS/ChinaDNS.list
       - https://raw.githubusercontent.com/CornMaina/ios_rule_script/master/rule/Clash/Cisco/Cisco.list
       - https://raw.githubusercontent.com/CornMaina/ios_rule_script/master/rule/Clash/Civitai/Civitai.list
@@ -744,7 +742,6 @@ targets:
       - https://raw.githubusercontent.com/CornMaina/ios_rule_script/master/rule/Clash/ZeeTV/ZeeTV.list
       - https://raw.githubusercontent.com/CornMaina/ios_rule_script/master/rule/Clash/Zendesk/Zendesk.list
       - https://raw.githubusercontent.com/CornMaina/ios_rule_script/master/rule/Clash/Zoho/Zoho.list
-      - https://raw.githubusercontent.com/CornMaina/ios_rule_script/master/rule/Clash/Zoom/Zoom.list
       - https://raw.githubusercontent.com/CornMaina/ios_rule_script/master/rule/Clash/eBay/eBay.list
       - https://raw.githubusercontent.com/CornMaina/ios_rule_script/master/rule/Clash/friDay/friDay.list
       - https://raw.githubusercontent.com/CornMaina/ios_rule_script/master/rule/Clash/iCloud/iCloud.list
