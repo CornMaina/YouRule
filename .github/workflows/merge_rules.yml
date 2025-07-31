@@ -10,6 +10,8 @@ on:
 jobs:
   merge-rules:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       # 1. 检出仓库代码，以便访问 config.yml 和 build.sh
       - name: Checkout repository
